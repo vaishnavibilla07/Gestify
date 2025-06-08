@@ -34,7 +34,18 @@
 ---
 
 ## 📸 Screenshots
-(Add screenshots showing the live gesture recognition with webcam overlay here)
+![image](https://github.com/user-attachments/assets/7df92d13-ef64-4378-b0ad-e6871e2eb10e)
+
+![image](https://github.com/user-attachments/assets/437a6023-0bd7-475b-b6db-cda3f87eb3b2)
+
+![image](https://github.com/user-attachments/assets/ff13a040-9c48-46c7-929f-06d76be53d00)
+
+![Screenshot 2025-04-15 153844](https://github.com/user-attachments/assets/906eeba1-eb77-4531-9a69-87feb8cb9858)
+
+![Screenshot 2025-04-15 153955](https://github.com/user-attachments/assets/a61d289e-7e39-46f9-a61a-cbae9fb8fe7f)
+
+![Screenshot 2025-04-15 153923](https://github.com/user-attachments/assets/5d464ca8-72b2-47ae-8f21-13b7595486bd)
+
 
 ---
 
@@ -43,9 +54,6 @@
 |---------------------|---------------|
 | Validation Accuracy | ~92%          |
 | Test Accuracy       | ~89.5%        |
-| Inference Time      | ~35 ms/frame  |
-| FPS (Live)          | ~25–30        |
-| Model Size          | ~200 KB       |
 
 ---
 
@@ -56,4 +64,6 @@
 - Multi-hand and multi-user support
 - Mobile app deployment via TensorFlow Lite
 - Regional sign language recognition
+
+
 
